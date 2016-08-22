@@ -79,7 +79,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 											<div class="space-6"></div>
 
-											<form action="rest/login/login" method="post" id="form1">
+											<form action="./login/login" method="post" id="form1">
 												<fieldset>
 													<label class="block clearfix">
 														<span class="block input-icon input-icon-right">
