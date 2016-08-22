@@ -51,7 +51,7 @@
                 </div>
             </nav>
             <div class="jumbotron">
-                <h1>你好，世界！</h1>
+                <h1>Hello，World！</h1>
                 <p>This is a template for a simple marketing or informational
                     website. It includes a large callout called the hero unit and three
                     supporting pieces of content. Use it as a starting point to create
