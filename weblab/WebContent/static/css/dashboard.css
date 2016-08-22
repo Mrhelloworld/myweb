@@ -1,0 +1,50 @@
+.loading-bg { z-index:99998;   background:rgba(0, 0, 0, 0.44); width:100%; height:100%; position:absolute; top:0; left:0;}
+.loading { z-index:99999; font-size:16px; border-radius:3px;  text-align:center; top:50%; left:50%; position:absolute; margin-left:-120px;margin-left:-40px; background:#fff;  width:240px; height:80px; padding-top:20px;}
+.loading .icon-load { background:url(../images/load.gif) no-repeat; display:inline-block; width:40px; height:40px; margin-right:12px; vertical-align:middle;}
+
+.bootbox .modal-dialog { width:500px; }
+
+.modal-content { box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);}
+.modal-content { border-radius:3px;}
+.qingmodal .col-sm-5 textarea.form-control {  width: 70%;    }
+.form-horizontal .control-label { padding-right:0!important;}
+.qingmodal .form-group { margin-bottom:8px;}
+.qingmodal .form-group .formtext { line-height:35px; color:#999;}
+.qingmodal .form-group .twoinput { width:auto;}
+.qingmodal .form-group .twoinput .form-control { display:inline-block; width:192px;;}
+.qingmodal .btn,.tijiao .btn,.bootbox .btn {  padding:6px 36px; font-size:16px; }
+.bootbox .bootbox-body { font-size:16px; text-align:center; padding:20px 25px 20px 25px;}
+.bootbox .modal-dialog { width:500px; }
+
+.qingmodal .numadd .btn{ display:inline-block; padding:3px 9px;}
+.qingmodal .numadd .glyphicon { margin-right:0; font-size:12px; line-height:12px;}
+.qingmodal .numadd input.form-control { display:inline-block; width:80px; margin:0 0px; }
+.qingmodal .numadd .tian { display:inline-block; margin:6px 0 0 50px; float:left;}
+.qingmodal .numadd .ace-spinner {display:inline-block; float:left;}
+.qingmodal .col-sm-5 { width:440px;}
+.qingmodal .col-sm-5 .form-control { width:192px; display:inline-block;}
+.qingmodal .col-sm-5 textarea.form-control { width:100%;}
+.qingmodal .form-group.tip { padding:20px 40px 0px 40px; color:#f70;}
+
+.qingmodal .input-daterange input:last-child { border-radius:3px;}
+.qingmodal .input-daterange input:first-child {border-radius:3px;}
+
+
+.form-control.error { border:1px solid #f60;  box-shadow:0px 0px 3px #ff8364;}
+label.error{color:#F00;margin-left:10px; }
+
+.modal-header {
+    min-height: 16.4286px;
+    padding: 15px;
+    border-bottom: 1px solid #E5E5E5;
+    background-color: #F6F6F6;
+    border-radius: 3px 3px 0px 0px;
+}
+
+.modal-footer { border-top:0; text-align:center; padding-bottom:25px; padding-top:10px;  }
+.setpass .modal-footer { padding-bottom:10px;}
+.ace-file-input{width: 192px; float: left;}
+.btn_file_input {
+	float: left; 
+	position: relative;
+}
